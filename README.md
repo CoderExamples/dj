@@ -1,5 +1,7 @@
 # dj
 
+## 基于 Docker Jockey，是一个Docker镜像，它帮助开发者简化开发环境的搭建过程，只需要安装Docker，无需再安装编程语言的运行时或环境配置等。
+
 ## Install dj
 
 Install for Mac:
